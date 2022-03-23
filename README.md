@@ -33,6 +33,7 @@ The deployement of a static website to Azure is successfully completed.
 
 You can now view your project using
 Primary endpoint:
+
 https://programmingguide.z13.web.core.windows.net/
 
 Secondary endpoint:
